@@ -41,7 +41,7 @@ int main(){
 		if(mons.isDead()){
 			drawScene(player_action,p,monster_action,m);
 			playerWin();
-			break; 
+			break; ds
 		}
 		
 		turn_count++;
