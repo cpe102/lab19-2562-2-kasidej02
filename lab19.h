@@ -90,7 +90,7 @@ int Unit::heal(){
 }
 //
 void Unit::guard(){
-	guard_on = true;
+	guard_on = true; 56
 	
 }
 	
